@@ -1,0 +1,117 @@
+body{
+    text-align: center;
+    font-family: happy monkey, cursive;
+    color: #ffffff ;
+    background: #a2d2ff ;
+    text-shadow: 0 0 3px black;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+    background: linear-gradient( rgb(246, 241, 241), rgb(108, 108, 193));
+}
+
+
+.joe-eman-img {
+    width: 200px;
+    border-radius: 30%;
+    border: 6px solid #EFB0C9;
+
+}
+h4 {
+    margin: 10px auto 20px;
+    background: #EFB0C9;
+    width: 150px;
+    
+}
+.our-photo {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+    margin-top: 70px;
+}
+.album {
+    border: 6px solid #EFB0C9;
+    width: 250px;
+    height: 250px;
+    background-image: url("images/album.jpeg");
+    background-size: cover;
+}
+#album-officially-engaged:hover {
+    background-image: url("images/officially engaged.jpg");
+    background-size: cover;
+}
+#album-engagement-celebration:hover{
+    background-image: url("images/engagement.jpg");
+    background-size: cover;
+}
+#album-airport:hover {
+    background-image: url("images/airport.jpg");
+    background-size: cover;
+}
+#album-first-BD:hover {
+    background-image: url("images/bd.png");
+    background-size: contain ;
+}
+#album-someone-party:hover{
+    background-image: url("images/wedding.jpg");
+    background-size: cover;
+}
+#album-surprise:hover{
+    background-image: url("images/surprise.jpg");
+    background-size: cover;
+}
+#album-bunch-flower:hover{
+    background-image: url("images/bunch of flower.jpg");
+    background-size: cover;
+}
+#album-velintine:hover{
+    background-image: url("images/valentine.jpg");
+    background-size: cover;
+}
+#album-our-wedding-party:hover {
+    background-image: url("images/our weddding party.jpg");
+    background-size: cover;
+}
+#sub-heading {
+    background: none;
+    margin-top: 120px;
+    
+}
+#sub-heading-1 {
+    margin-top: 10px;
+}
+
+#album-wedding-party:hover{
+    background-image: url("images/wedding party.jpg");
+    background-size: cover;
+}
+#album-honey-moon-1:hover {
+    background-image: url("images/honey moon 1.jpg");
+    background-size: cover;
+}
+#album-honey-moon-2:hover {
+    background-image: url("images/honey moon 2.jpg");
+    background-size: cover;
+}
+#album-honey-moon-3:hover {
+    background-image: url("images/honey moon 3.jpg");
+    background-size: cover;
+}
+#album-formal:hover {
+    background-image: url("images/formal.jpg");
+    background-size: cover;
+}
+#album-anniversary:hover {
+    background-image: url("images/1 anniversary.JPG");
+    background-size: cover;
+}
+#album-leen:hover {
+    background-image: url("images/leen.jpg");
+    background-size: cover;
+}
+#album-leen-1:hover {
+    background-image: url("images/lely.jpg");
+    background-image: cover;
+}
